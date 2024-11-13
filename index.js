@@ -7,6 +7,7 @@ var path = require('path')
 var os = require('os')
 
 var win32 = os.platform() === 'win32'
+var secret = "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"
 
 var noop = function () {}
 
